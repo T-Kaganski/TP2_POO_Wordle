@@ -1,3 +1,3 @@
 # TP2_POO_Wordle
 
-<img src="wordle.jpg">
+<img src="wordle.png">
